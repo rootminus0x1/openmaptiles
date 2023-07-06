@@ -4,9 +4,11 @@ data.xml
 *.swp
 *.pbf
 
+# node
+node_modules/
+
 # quickstart
 quickstart.log
-
 
 # imput / output data
 data/*
